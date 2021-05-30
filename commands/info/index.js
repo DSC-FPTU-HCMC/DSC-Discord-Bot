@@ -1,0 +1,10 @@
+const logger = require('../../logger');
+const view = require('./view')
+module.exports = {
+    name: 'info',
+    desc: 'Print out bot info',
+    execute: function(msg,args){
+        msg.channel.send(view.infoEmbed());
+        logger.info(`${msg.author.username} Used info!`);
+    }
+}

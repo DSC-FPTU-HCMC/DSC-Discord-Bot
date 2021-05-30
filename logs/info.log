@@ -1,0 +1,45 @@
+
+[DSC FPTU Bot] 2021-05-30T16:02:48.725Z info : Bot has been activated
+[DSC FPTU Bot] 2021-05-30T16:03:26.790Z info : Bot has been activated
+[DSC FPTU Bot] 2021-05-30T16:06:25.306Z info : Bot has been activated
+[DSC FPTU Bot] 2021-05-30T16:06:28.749Z error : undefined
+[DSC FPTU Bot] 2021-05-30T16:07:30.665Z info : Bot has been activated
+[DSC FPTU Bot] 2021-05-30T16:07:33.634Z error : ReferenceError: msg is not defined
+    at Client.<anonymous> (E:\DSCDiscordBot\index.js:26:34)
+    at Client.emit (events.js:376:20)
+    at MessageCreateAction.handle (E:\DSCDiscordBot\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (E:\DSCDiscordBot\node_modules\ws\lib\event-target.js:132:16)
+    at WebSocket.emit (events.js:376:20)
+    at Receiver.receiverOnMessage (E:\DSCDiscordBot\node_modules\ws\lib\websocket.js:834:20)
+[DSC FPTU Bot] 2021-05-30T16:07:53.591Z info : Bot has been activated
+[DSC FPTU Bot] 2021-05-30T16:07:58.203Z info : baolongv3 Used info!
+[DSC FPTU Bot] 2021-05-30T16:08:39.959Z info : Bot has been activated
+[DSC FPTU Bot] 2021-05-30T16:08:42.496Z error : ReferenceError: Discord is not defined
+    at Object.infoEmbed (E:\DSCDiscordBot\commands\info\view\index.js:4:9)
+    at Object.execute (E:\DSCDiscordBot\commands\info\index.js:7:31)
+    at Client.<anonymous> (E:\DSCDiscordBot\index.js:26:26)
+    at Client.emit (events.js:376:20)
+    at MessageCreateAction.handle (E:\DSCDiscordBot\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (E:\DSCDiscordBot\node_modules\ws\lib\event-target.js:132:16)
+[DSC FPTU Bot] 2021-05-30T16:09:13.694Z info : Bot has been activated
+[DSC FPTU Bot] 2021-05-30T16:09:17.689Z error : TypeError: Class constructor MessageEmbed cannot be invoked without 'new'
+    at Object.infoEmbed (E:\DSCDiscordBot\commands\info\view\index.js:4:24)
+    at Object.execute (E:\DSCDiscordBot\commands\info\index.js:7:31)
+    at Client.<anonymous> (E:\DSCDiscordBot\index.js:26:26)
+    at Client.emit (events.js:376:20)
+    at MessageCreateAction.handle (E:\DSCDiscordBot\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (E:\DSCDiscordBot\node_modules\ws\lib\event-target.js:132:16)
+[DSC FPTU Bot] 2021-05-30T16:09:29.546Z info : Bot has been activated
+[DSC FPTU Bot] 2021-05-30T16:09:31.761Z info : baolongv3 Used info!
