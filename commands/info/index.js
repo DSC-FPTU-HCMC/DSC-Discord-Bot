@@ -5,6 +5,6 @@ module.exports = {
     desc: 'Print out bot info',
     execute: function(msg,args){
         msg.channel.send(view.infoEmbed());
-        logger.info(`${msg.author.username} Used info!`);
+        
     }
 }
