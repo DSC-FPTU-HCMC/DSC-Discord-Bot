@@ -156,3 +156,7 @@
     at WebSocket.onMessage (E:\DSCDiscordBot\node_modules\ws\lib\event-target.js:132:16)
     at WebSocket.emit (events.js:376:20)
     at Receiver.receiverOnMessage (E:\DSCDiscordBot\node_modules\ws\lib\websocket.js:834:20)
+[DSC FPTU Bot] 2021-05-31T07:30:26.409Z info : Bot has been activated
+[DSC FPTU Bot] 2021-05-31T07:30:32.051Z info : baolongv3 Used info
+[DSC FPTU Bot] 2021-05-31T08:51:30.398Z info : User Dao Pham just joined!
+[DSC FPTU Bot] 2021-05-31T08:53:58.961Z info : Bot has been activated

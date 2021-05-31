@@ -38,7 +38,7 @@ client.on('warn', () => {
 client.on('guildMemberAdd', async member => {
     try {
         logger.info(`User ${member.user.username} just joined!`);
-        const channel = member.guild.channels.cache.find(ch => ch.name === 'say-hi');
+        const channel = member.guild.channels.cache.find(ch => ch.name === 'member-log');
 
         if (!channel) return;
 
