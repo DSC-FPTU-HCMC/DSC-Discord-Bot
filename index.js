@@ -19,12 +19,12 @@ client.once('ready', () => {
 })
 client.on('message', async (message) => {
     if (!message.content.startsWith(prefix) || message.author.bot) return;
-    const args = message.content.slice(prefix.length).trim().split();
+    const args = message.content.slice(prefix.length).trim().split(' ');
     const cmd = args.shift().toLowerCase();
     if (!cmdList.has(cmd)) return;
     try {
         cmdList.get(cmd).execute(message, args);
-        logger.info(`${message.author.username} Used ${cmd}`);
+        logger.info(`${message.author.username} Used ${cmd} ${args}`);
     } catch (error) {
         logger.error(error.stack);
     }

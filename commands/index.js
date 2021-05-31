@@ -1,4 +1,5 @@
 module.exports = {
     info : require('./info'),
-    help : require('./help')
+    help : require('./help'),
+    record: require('./record')
 }

@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+
 const msgEmbed = require('../../../utils/msgembed');
 module.exports = {
     infoEmbed : function(){ 
