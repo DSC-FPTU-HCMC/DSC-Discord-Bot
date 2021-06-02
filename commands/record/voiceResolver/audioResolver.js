@@ -39,8 +39,9 @@ async function appendFiles(outputStream,currentfile,inputStream,chunks) {
 module.exports.saveRecord = async function(){
     let inputStream, currentfile, outputStream = fs.createWriteStream(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`);
     let chunks = fs.readdirSync(__dirname + '/../../../tmp/records/');
-    await appendFiles(outputStream,currentfile,inputStream,chunks);
-    await convertToMp3(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`,__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.mp3`,() => {
+    appendFiles(outputStream,currentfile,inputStream,chunks)
+    .then(convertToMp3(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`,__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.mp3`,() => {
         return;
-    });
+    }));
+    
 }
