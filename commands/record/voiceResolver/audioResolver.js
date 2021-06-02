@@ -20,7 +20,7 @@ async function convertToMp3(inputPath,outputPath){
 async function appendFiles(outputStream,currentfile,inputStream,chunks) {
     
     if (!chunks.length) {
-        outputStream.end(() => console.log('Finished.'));
+        outputStream.end(() => logger.info('Finished.'));
         return;
     }
 
@@ -30,7 +30,7 @@ async function appendFiles(outputStream,currentfile,inputStream,chunks) {
     inputStream.pipe(outputStream, { end: false });
 
     inputStream.on('end', function() {
-        console.log(currentfile + ' appended');
+        logger.info(currentfile + ' appended');
         fs.unlinkSync(currentfile);
         appendFiles(outputStream,currentfile,inputStream,chunks);
     });
