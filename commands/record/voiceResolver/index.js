@@ -26,6 +26,7 @@ module.exports = {
             logger.error(error.stack);
 
         }
+        msg.channel.send('Joining...');
     },
 
     leave: async function (msg) {
@@ -38,6 +39,7 @@ module.exports = {
         let {
             channel: botChannel
         } = msg.guild.voiceStates.cache.last();
+        msg.channel.send('Leaving...');
         await botChannel.leave();
 
 
@@ -57,7 +59,7 @@ module.exports = {
             connection: conn
         } = msg.guild.voiceStates.cache.last();
         logger.info(`Starting Recording on ${botChannel}`);
-        msg.channel.send('Starting the Recording')
+        msg.channel.send('Starting the Recording');
         fs.writeFileSync('voice.lock','lock');
         const receiver = conn.receiver;
         try {
@@ -92,6 +94,7 @@ module.exports = {
         let {
             channel: botChannel
         } = msg.guild.voiceStates.cache.last();
+        msg.channel.send('Recording Finished!');
         await botChannel.leave();
         await audioResolver.saveRecord();
     }
