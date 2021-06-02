@@ -96,6 +96,6 @@ module.exports = {
         } = msg.guild.voiceStates.cache.last();
         msg.channel.send('Recording Finished!');
         await botChannel.leave();
-        await audioResolver.saveRecord();
+        audioResolver.saveRecord();
     }
 }
