@@ -220,3 +220,36 @@
     at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
     at onErrorNT (internal/child_process.js:467:16)
     at processTicksAndRejections (internal/process/task_queues.js:82:21)
+[DSC FPTU Bot] 2021-06-02T17:18:54.353Z error : Error: spawn lame ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+    at onErrorNT (internal/child_process.js:467:16)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+[DSC FPTU Bot] 2021-06-02T17:24:03.992Z error : Error: spawn lame ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+    at onErrorNT (internal/child_process.js:467:16)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+[DSC FPTU Bot] 2021-06-02T17:25:35.294Z error : Error: spawn lame ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+    at onErrorNT (internal/child_process.js:467:16)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+[DSC FPTU Bot] 2021-06-02T17:26:57.576Z error : Error: lame: Warning: unsupported audio format
+    at Socket.progressStdout (E:\DSCDiscordBot\node_modules\node-lame\lib\build\Lame.js:246:52)
+    at Socket.emit (events.js:376:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[DSC FPTU Bot] 2021-06-02T17:28:29.075Z error : Error: lame: Warning: unsupported audio format
+    at Socket.progressStdout (E:\DSCDiscordBot\node_modules\node-lame\lib\build\Lame.js:246:52)
+    at Socket.emit (events.js:376:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[DSC FPTU Bot] 2021-06-02T17:30:32.312Z error : Error: lame: Warning: unsupported audio format
+    at Socket.progressStdout (E:\DSCDiscordBot\node_modules\node-lame\lib\build\Lame.js:246:52)
+    at Socket.emit (events.js:376:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)

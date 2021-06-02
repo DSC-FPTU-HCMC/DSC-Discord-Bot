@@ -778,3 +778,383 @@
     at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
     at onErrorNT (internal/child_process.js:467:16)
     at processTicksAndRejections (internal/process/task_queues.js:82:21)
+[DSC FPTU Bot] 2021-06-02T17:18:17.653Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:18:25.421Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:18:26.720Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:18:29.082Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:18:29.083Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:18:33.963Z info : baolongv3 Used record leave
+[DSC FPTU Bot] 2021-06-02T17:18:39.571Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:18:40.311Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:18:41.533Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:18:45.370Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:18:45.510Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:18:46.829Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:18:47.088Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:18:47.913Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:18:48.170Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:18:52.178Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:18:53.695Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:18:54.163Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:18:54.352Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:18:54.353Z error : Error: spawn lame ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+    at onErrorNT (internal/child_process.js:467:16)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+[DSC FPTU Bot] 2021-06-02T17:23:47.827Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:23:51.755Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:23:53.091Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:23:56.571Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:23:56.572Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:23:56.695Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:23:58.111Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:24:03.840Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:24:03.990Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:24:03.992Z error : Error: spawn lame ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+    at onErrorNT (internal/child_process.js:467:16)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+[DSC FPTU Bot] 2021-06-02T17:25:15.240Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:25:20.588Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:25:21.902Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:25:25.662Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:25:25.663Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:25:29.343Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:25:30.308Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:25:31.205Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:25:32.328Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:25:32.505Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:25:35.292Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:25:35.294Z error : Error: spawn lame ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+    at onErrorNT (internal/child_process.js:467:16)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+[DSC FPTU Bot] 2021-06-02T17:26:43.905Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:26:49.904Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:26:51.226Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:26:52.490Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:26:52.491Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:26:52.807Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:26:53.096Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:26:57.565Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:26:57.577Z error : Error: lame: Warning: unsupported audio format
+    at Socket.progressStdout (E:\DSCDiscordBot\node_modules\node-lame\lib\build\Lame.js:246:52)
+    at Socket.emit (events.js:376:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[DSC FPTU Bot] 2021-06-02T17:28:15.564Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:28:21.945Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:28:23.272Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:28:24.955Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:28:24.956Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:28:25.108Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:28:25.234Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:28:29.071Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:28:29.075Z error : Error: lame: Warning: unsupported audio format
+    at Socket.progressStdout (E:\DSCDiscordBot\node_modules\node-lame\lib\build\Lame.js:246:52)
+    at Socket.emit (events.js:376:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[DSC FPTU Bot] 2021-06-02T17:30:08.390Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:30:16.086Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:30:17.446Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:30:18.694Z info : baolongv3 Used record join
+[DSC FPTU Bot] 2021-06-02T17:30:24.824Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:30:24.825Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:30:27.527Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:30:28.497Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:30:28.539Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:30:29.698Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:30:30.170Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:30:31.135Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:30:31.386Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:30:32.291Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:30:32.312Z error : Error: lame: Warning: unsupported audio format
+    at Socket.progressStdout (E:\DSCDiscordBot\node_modules\node-lame\lib\build\Lame.js:246:52)
+    at Socket.emit (events.js:376:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[DSC FPTU Bot] 2021-06-02T17:34:30.143Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:34:38.850Z info : baolongv3 Used record join
+[DSC FPTU Bot] 2021-06-02T17:34:45.320Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:34:46.658Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:34:49.126Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:34:49.127Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:34:54.408Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:34:55.078Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:34:56.438Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:34:57.558Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:34:58.409Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:34:58.455Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:34:58.582Z info : Encoding Finished!
+[DSC FPTU Bot] 2021-06-02T17:37:34.400Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:37:35.754Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:37:37.747Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:37:37.748Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:37:39.024Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:37:39.405Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:37:41.288Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:37:42.111Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:37:43.958Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:37:44.455Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:37:45.777Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:37:45.806Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:37:47.590Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:37:47.660Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:37:47.837Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:38:24.182Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:38:37.898Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:38:38.597Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:38:42.160Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:38:42.161Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:38:49.143Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:38:49.367Z info : Encoding Finished!
+[DSC FPTU Bot] 2021-06-02T17:39:53.823Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:39:55.115Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:39:57.078Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:39:57.079Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:40:01.230Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:40:01.241Z info : Encoding Finished!
+[DSC FPTU Bot] 2021-06-02T17:40:21.645Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:40:22.347Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:40:24.977Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:40:24.979Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:40:27.786Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:40:28.236Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:40:33.130Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:40:33.149Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:40:33.265Z info : Encoding Finished!
+[DSC FPTU Bot] 2021-06-02T17:40:43.906Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:40:44.617Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:40:46.787Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:40:46.787Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:40:47.618Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:40:53.291Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:40:53.698Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:40:54.547Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:40:54.694Z info : Encoding Finished!
+[DSC FPTU Bot] 2021-06-02T17:43:00.145Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:43:01.482Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:43:03.438Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:43:03.439Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:43:04.716Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:06.784Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:08.791Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:09.638Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:09.892Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:11.329Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:11.483Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:11.513Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:11.828Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:12.791Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:17.106Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:17.168Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:20.469Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:21.906Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:23.676Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:24.117Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:24.407Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:25.126Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:26.803Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:26.897Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:27.146Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:28.944Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:32.808Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:35.587Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:36.706Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:37.372Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:37.403Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:37.612Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:38.288Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:38.308Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:38.518Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:40.089Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:40.293Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:40.426Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:41.518Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:41.640Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:42.226Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:42.459Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:42.849Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:44.505Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:46.089Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:47.304Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:48.253Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:48.948Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:49.349Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:49.855Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:51.186Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:51.729Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:52.691Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:54.129Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:55.676Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:55.677Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:57.265Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:58.363Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:43:59.908Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:01.242Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:06.131Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:06.177Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:06.651Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:06.917Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:12.130Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:12.537Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:13.244Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:14.347Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:16.825Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:18.428Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:22.811Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:23.786Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:27.409Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:27.633Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:27.706Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:28.465Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:29.997Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:30.279Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:31.033Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:31.848Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:38.215Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:38.260Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:42.270Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:43.027Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:43.653Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:45.231Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:45.253Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:45.809Z info : baolongv3 Used record leave
+[DSC FPTU Bot] 2021-06-02T17:44:45.932Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:47.129Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:47.198Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:48.349Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:50.341Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:50.408Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:52.245Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:52.675Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:53.368Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:53.559Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:53.756Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:54.206Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:44:57.370Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:44:59.426Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:01.273Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:01.560Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:03.588Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:04.258Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:05.146Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:07.269Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:08.317Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:08.321Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:15.777Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:16.093Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:16.389Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:17.705Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:18.230Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:19.687Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:19.757Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:21.369Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:22.677Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:23.047Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:23.169Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:23.366Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:23.396Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:24.087Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:24.377Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:24.528Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:26.290Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:26.326Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:28.159Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:29.157Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:32.207Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:35.419Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:37.349Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:45:39.594Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:46:32.918Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:46:40.786Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:46:42.151Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:46:43.829Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:46:43.830Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:46:45.289Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:46:46.325Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:46:47.266Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:46:47.572Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:46:48.246Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:46:49.676Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:46:50.132Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:46:51.065Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:46:52.987Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:46:53.214Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:46:53.581Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:46:55.592Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:46:56.666Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:47:02.168Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:47:02.777Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:47:07.170Z info : Encoding Finished!
+[DSC FPTU Bot] 2021-06-02T17:49:15.577Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:49:15.579Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:49:15.579Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:49:15.851Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:49:15.876Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:16.270Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:16.792Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:21.313Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:22.659Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:23.105Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:23.136Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:47.879Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:47.880Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:47.881Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:50.673Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:50.751Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:50.821Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:55.148Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:55.628Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:55.899Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:49:57.103Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:01.750Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:02.748Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:02.995Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:03.687Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:03.734Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:03.891Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:04.575Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:05.283Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:07.130Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:08.052Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:08.676Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:08.847Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:09.929Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:09.967Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:10.034Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:10.730Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:11.315Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:12.076Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:16.005Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:17.589Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:50:19.764Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:51:40.338Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:51:41.651Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:51:46.637Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:51:47.945Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:51:49.233Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:51:49.234Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:51:50.331Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:51:50.653Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:52:31.347Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:52:31.349Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:52:31.351Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:52:31.364Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:52:31.652Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:52:34.667Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:52:35.948Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:52:36.929Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:52:38.490Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:52:38.680Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:52:38.771Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:52:41.751Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:52:42.806Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:52:43.272Z info : Encoding Finished!

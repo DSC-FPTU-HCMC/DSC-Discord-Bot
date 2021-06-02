@@ -91,7 +91,7 @@ module.exports = {
         let {
             channel: botChannel
         } = msg.guild.voiceStates.cache.last();
-        audioResolver.saveRecord();
         await botChannel.leave();
+        audioResolver.saveRecord();
     }
 }
