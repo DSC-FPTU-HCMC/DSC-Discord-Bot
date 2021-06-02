@@ -57,6 +57,7 @@ module.exports = {
             connection: conn
         } = msg.guild.voiceStates.cache.last();
         logger.info(`Starting Recording on ${botChannel}`);
+        msg.channel.send('Starting the Recording')
         fs.writeFileSync('voice.lock','lock');
         const receiver = conn.receiver;
         try {
@@ -92,6 +93,6 @@ module.exports = {
             channel: botChannel
         } = msg.guild.voiceStates.cache.last();
         await botChannel.leave();
-        audioResolver.saveRecord();
+        await audioResolver.saveRecord();
     }
 }
