@@ -201,3 +201,580 @@
 [DSC FPTU Bot] 2021-05-31T15:34:58.740Z info : Joining Voice Channel of <#848186077494902785>
 [DSC FPTU Bot] 2021-05-31T15:34:58.740Z info : baolongv3 Used record enter
 [DSC FPTU Bot] 2021-05-31T15:35:01.495Z info : baolongv3 Used record leave
+[DSC FPTU Bot] 2021-05-31T15:36:03.473Z info : Bot has been activated
+[DSC FPTU Bot] 2021-05-31T15:36:10.027Z info : baolongv3 Used record leave
+[DSC FPTU Bot] 2021-05-31T15:36:19.362Z info : Joining Voice Channel of <#848186077494902785>
+[DSC FPTU Bot] 2021-05-31T15:36:19.363Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-05-31T15:36:21.831Z info : baolongv3 Used record leave
+[DSC FPTU Bot] 2021-05-31T15:36:45.645Z info : Joining Voice Channel of <#848186077494902785>
+[DSC FPTU Bot] 2021-05-31T15:36:45.645Z info : Yurra Used record enter
+[DSC FPTU Bot] 2021-05-31T15:36:50.737Z info : Yurra Used record leave
+[DSC FPTU Bot] 2021-05-31T15:36:59.320Z info : Yurra Used record enter
+!dsc-record,leave
+[DSC FPTU Bot] 2021-05-31T15:37:32.471Z info : Joining Voice Channel of <#848186077494902785>
+[DSC FPTU Bot] 2021-05-31T15:37:32.472Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-05-31T15:37:35.014Z info : Joining Voice Channel of <#848186077494902786>
+[DSC FPTU Bot] 2021-05-31T15:37:35.015Z info : Yurra Used record enter
+[DSC FPTU Bot] 2021-05-31T15:37:39.248Z info : baolongv3 Used record leave
+[DSC FPTU Bot] 2021-05-31T15:37:39.960Z info : Joining Voice Channel of <#848186077494902786>
+[DSC FPTU Bot] 2021-05-31T15:37:39.960Z info : Yurra Used record enter
+[DSC FPTU Bot] 2021-05-31T15:37:44.099Z info : Joining Voice Channel of <#848186077494902785>
+[DSC FPTU Bot] 2021-05-31T15:37:44.099Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-05-31T15:37:54.841Z info : baolongv3 Used record leave
+[DSC FPTU Bot] 2021-05-31T16:51:51.697Z error : TypeError: Cannot read property 'join' of null
+    at Object.enter (E:\DSCDiscordBot\commands\record\voiceResolver\index.js:10:42)
+    at Object.execute (E:\DSCDiscordBot\commands\record\index.js:13:33)
+    at Client.<anonymous> (E:\DSCDiscordBot\index.js:26:26)
+    at Client.emit (events.js:376:20)
+    at MessageCreateAction.handle (E:\DSCDiscordBot\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (E:\DSCDiscordBot\node_modules\ws\lib\event-target.js:132:16)
+[DSC FPTU Bot] 2021-05-31T16:51:51.698Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-05-31T17:15:25.147Z info : baolongv3 Used record 
+[DSC FPTU Bot] 2021-05-31T17:15:32.182Z info : Joining Voice Channel of <#848186077494902785>
+[DSC FPTU Bot] 2021-05-31T17:15:32.182Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-05-31T17:15:35.297Z info : baolongv3 Used record leave
+[DSC FPTU Bot] 2021-06-02T15:35:54.504Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:36:10.408Z info : Joining Voice Channel of <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T15:36:10.408Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T15:36:22.610Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:36:40.769Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T15:37:32.521Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:37:35.822Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T15:37:35.823Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T15:39:04.886Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:39:13.981Z info : baolongv3 Used record leave
+[DSC FPTU Bot] 2021-06-02T15:39:52.477Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:39:56.559Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T15:39:56.559Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T15:39:59.273Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:40:15.848Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:40:18.615Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:41:41.253Z info : baolongv3 Used record buh
+[DSC FPTU Bot] 2021-06-02T15:41:44.660Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T15:42:45.240Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:42:48.681Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:43:20.742Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:43:28.664Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:43:30.913Z info : baolongv3 Used record 
+[DSC FPTU Bot] 2021-06-02T15:43:34.846Z info : baolongv3 Used record join
+[DSC FPTU Bot] 2021-06-02T15:43:39.845Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T15:43:39.845Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T15:43:43.869Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:44:20.066Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:44:23.868Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T15:44:31.355Z info : baolongv3 Used record leave
+[DSC FPTU Bot] 2021-06-02T15:44:34.118Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T15:45:01.841Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:45:06.442Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:46:39.078Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:46:42.389Z error : TypeError: Cannot read property 'join' of null
+    at Object.enter (E:\DSCDiscordBot\commands\record\voiceResolver\index.js:20:25)
+    at Object.execute (E:\DSCDiscordBot\commands\record\index.js:13:33)
+    at Client.<anonymous> (E:\DSCDiscordBot\index.js:26:26)
+    at Client.emit (events.js:376:20)
+    at MessageCreateAction.handle (E:\DSCDiscordBot\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (E:\DSCDiscordBot\node_modules\ws\lib\event-target.js:132:16)
+[DSC FPTU Bot] 2021-06-02T15:46:42.389Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T15:47:30.550Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:47:34.541Z error : TypeError: Cannot read property 'join' of null
+    at Object.enter (E:\DSCDiscordBot\commands\record\voiceResolver\index.js:20:31)
+    at Object.execute (E:\DSCDiscordBot\commands\record\index.js:13:33)
+    at Client.<anonymous> (E:\DSCDiscordBot\index.js:26:26)
+    at Client.emit (events.js:376:20)
+    at MessageCreateAction.handle (E:\DSCDiscordBot\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (E:\DSCDiscordBot\node_modules\ws\lib\event-target.js:132:16)
+[DSC FPTU Bot] 2021-06-02T15:47:34.541Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T15:47:56.666Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T15:47:57.400Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T15:48:01.733Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T15:48:01.733Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:49:22.347Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:49:30.298Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T15:49:31.024Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T15:49:33.918Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T15:49:33.918Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:50:34.878Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:50:41.264Z info : baolongv3 Used record leave
+[DSC FPTU Bot] 2021-06-02T15:53:27.345Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:53:30.453Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T15:53:31.801Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T15:53:33.800Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T15:53:33.801Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:54:44.771Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:56:01.694Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:56:06.868Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T15:56:07.583Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T15:56:10.390Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T15:56:10.391Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:56:26.224Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T15:57:32.994Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T15:57:37.101Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:57:40.838Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T15:57:41.567Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T15:57:43.548Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T15:57:43.549Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T15:57:55.552Z error : Error: ENOENT: no such file or directory, unlink 'voice.lock'
+    at Object.unlinkSync (fs.js:1251:3)
+    at Object.stop (E:\DSCDiscordBot\commands\record\voiceResolver\index.js:86:16)
+    at Object.execute (E:\DSCDiscordBot\commands\record\index.js:31:33)
+    at Client.<anonymous> (E:\DSCDiscordBot\index.js:26:26)
+    at Client.emit (events.js:376:20)
+    at MessageCreateAction.handle (E:\DSCDiscordBot\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+[DSC FPTU Bot] 2021-06-02T15:57:55.553Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:00:35.751Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:00:39.107Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:00:40.437Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:00:42.101Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:00:42.101Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:00:43.200Z info : undefined started Speek
+[DSC FPTU Bot] 2021-06-02T16:00:49.134Z info : undefined started Speek
+[DSC FPTU Bot] 2021-06-02T16:00:49.294Z info : undefined started Speek
+[DSC FPTU Bot] 2021-06-02T16:00:53.119Z info : undefined started Speek
+[DSC FPTU Bot] 2021-06-02T16:00:53.296Z info : undefined started Speek
+[DSC FPTU Bot] 2021-06-02T16:00:58.135Z info : undefined started Speek
+[DSC FPTU Bot] 2021-06-02T16:00:58.275Z info : undefined started Speek
+[DSC FPTU Bot] 2021-06-02T16:01:02.110Z info : undefined started Speek
+[DSC FPTU Bot] 2021-06-02T16:01:02.333Z info : undefined started Speek
+[DSC FPTU Bot] 2021-06-02T16:01:06.344Z info : undefined started Speek
+[DSC FPTU Bot] 2021-06-02T16:01:07.973Z info : undefined started Speek
+[DSC FPTU Bot] 2021-06-02T16:01:09.790Z info : undefined started Speek
+[DSC FPTU Bot] 2021-06-02T16:02:02.169Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:02:05.395Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:02:10.591Z info : baolongv3 Used record leave
+[DSC FPTU Bot] 2021-06-02T16:02:16.014Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:02:24.856Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:02:25.624Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:02:30.825Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:02:30.825Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:02:32.978Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:02:44.371Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:02:44.380Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:02:54.889Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:02:54.975Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:02:55.057Z error : Error: ENOENT: no such file or directory, unlink 'voice.lock'
+    at Object.unlinkSync (fs.js:1251:3)
+    at Object.stop (E:\DSCDiscordBot\commands\record\voiceResolver\index.js:87:16)
+    at Object.execute (E:\DSCDiscordBot\commands\record\index.js:31:33)
+    at Client.<anonymous> (E:\DSCDiscordBot\index.js:26:26)
+    at Client.emit (events.js:376:20)
+    at MessageCreateAction.handle (E:\DSCDiscordBot\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+[DSC FPTU Bot] 2021-06-02T16:02:55.059Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:03:34.543Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:03:38.575Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:03:42.195Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:03:42.897Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:03:45.027Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:03:45.027Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:03:46.094Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:03:46.832Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:03:46.913Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:03:59.751Z error : Error: ENOENT: no such file or directory, unlink 'voice.lock'
+    at Object.unlinkSync (fs.js:1251:3)
+    at Object.stop (E:\DSCDiscordBot\commands\record\voiceResolver\index.js:87:16)
+    at Object.execute (E:\DSCDiscordBot\commands\record\index.js:31:33)
+    at Client.<anonymous> (E:\DSCDiscordBot\index.js:26:26)
+    at Client.emit (events.js:376:20)
+    at MessageCreateAction.handle (E:\DSCDiscordBot\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (E:\DSCDiscordBot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+[DSC FPTU Bot] 2021-06-02T16:03:59.752Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:07:51.224Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:07:55.827Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:07:57.229Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:07:59.089Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:07:59.090Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:08:19.563Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:08:23.074Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:08:26.743Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:08:27.478Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:08:30.486Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:08:30.487Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:09:13.325Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:09:16.620Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:09:17.374Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:09:20.373Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:09:20.374Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:09:22.273Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:23.946Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:25.140Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:26.861Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:27.297Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:28.015Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:29.234Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:29.444Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:29.684Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:30.994Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:31.260Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:31.664Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:32.882Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:35.664Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:36.776Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:09:36.967Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:17:55.812Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:18:00.775Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:18:02.125Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:18:05.882Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:18:05.883Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:18:06.026Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:18:06.568Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:18:07.284Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:18:07.513Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:18:09.090Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:18:09.113Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:18:09.657Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:18:09.927Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:18:10.746Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:18:11.876Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:18:12.846Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:18:16.065Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:18:16.525Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:19:41.068Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:19:50.372Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:19:51.670Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:19:53.437Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:19:53.438Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:19:56.465Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:19:57.333Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:19:57.851Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:19:58.341Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:04.812Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:05.383Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:06.552Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:06.604Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:07.230Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:07.716Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:09.064Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:10.427Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:20:44.919Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:20:49.519Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:20:50.229Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:20:52.747Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:20:52.748Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:20:53.454Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:53.794Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:54.495Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:55.199Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:56.964Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:57.308Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:57.443Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:58.434Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:58.478Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:20:59.267Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:21:00.165Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:21:00.436Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:21:00.461Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:21:01.294Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:23:51.373Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:24:08.024Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:24:09.364Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:24:10.982Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:24:10.983Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:24:11.610Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:24:13.036Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:24:14.699Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:24:15.931Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:24:18.192Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:24:19.380Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:24:20.303Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:27:04.874Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:27:08.155Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:27:08.880Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:27:13.179Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:27:13.182Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:27:13.414Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:14.088Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:14.127Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:14.315Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:15.451Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:15.545Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:15.576Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:19.489Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:20.340Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:20.688Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:21.661Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:24.177Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:24.731Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:24.833Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:25.433Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:25.870Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:25.997Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:27:26.090Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:27:57.191Z info : baolongv3 Used info 
+[DSC FPTU Bot] 2021-06-02T16:29:18.369Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:29:34.315Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:29:35.626Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:29:38.749Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:29:38.750Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:29:46.435Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:29:47.513Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:29:49.660Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:29:50.154Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:29:55.590Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:29:55.717Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:29:57.834Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:29:58.012Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:29:58.088Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:33:23.315Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:33:31.504Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:33:32.821Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:33:34.470Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:33:34.471Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:33:35.658Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:33:35.812Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:33:40.917Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:33:40.954Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:33:42.587Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:33:42.607Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:33:43.389Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:34:27.589Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:34:32.258Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:34:36.138Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:34:36.850Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:34:38.624Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:34:38.625Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:34:45.139Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:34:45.226Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:34:46.114Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:34:46.328Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:34:47.254Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:34:47.397Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:34:51.048Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:34:51.263Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:34:51.870Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:34:53.320Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:47:52.789Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:47:57.617Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:47:58.988Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:48:00.953Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:48:00.954Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:48:01.393Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:48:06.818Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:48:17.803Z info : baolongv3 Used info 
+[DSC FPTU Bot] 2021-06-02T16:49:36.325Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:49:46.182Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:49:47.488Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:49:49.057Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:49:49.058Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:49:52.324Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:49:52.553Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:50:04.433Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:50:04.554Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:50:04.608Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:50:06.039Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:50:06.395Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:50:07.513Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:50:07.893Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:50:08.601Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:50:08.716Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:50:11.218Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:50:11.416Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:50:12.654Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:50:48.939Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:50:51.687Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:50:55.634Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:50:56.946Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:51:00.877Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:51:00.878Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:51:03.558Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:51:06.694Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:51:06.703Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:51:07.338Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:51:07.379Z error : undefined
+[DSC FPTU Bot] 2021-06-02T16:51:50.473Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:51:56.601Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:51:57.334Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:52:01.292Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:52:01.293Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:52:03.718Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:52:06.376Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:52:06.436Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:52:06.495Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:52:07.168Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:52:08.193Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:52:08.350Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:52:11.471Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:52:11.700Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:52:11.747Z error : undefined
+[DSC FPTU Bot] 2021-06-02T16:52:32.983Z info : baolongv3 Used info 
+[DSC FPTU Bot] 2021-06-02T16:53:25.927Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:53:30.636Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:53:31.960Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:53:34.244Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:53:34.245Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:53:34.898Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:53:37.943Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:53:38.056Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:53:38.904Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:53:40.619Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:53:40.651Z error : Error: Cannot find ffmpeg
+    at E:\DSCDiscordBot\node_modules\fluent-ffmpeg\lib\processor.js:136:22
+    at E:\DSCDiscordBot\node_modules\fluent-ffmpeg\lib\capabilities.js:123:9
+    at wrapper (E:\DSCDiscordBot\node_modules\async\dist\async.js:268:20)
+    at next (E:\DSCDiscordBot\node_modules\async\dist\async.js:4582:24)
+    at E:\DSCDiscordBot\node_modules\async\dist\async.js:321:20
+    at E:\DSCDiscordBot\node_modules\fluent-ffmpeg\lib\capabilities.js:116:11
+    at E:\DSCDiscordBot\node_modules\fluent-ffmpeg\lib\utils.js:223:16
+    at F (E:\DSCDiscordBot\node_modules\which\which.js:68:16)
+    at E (E:\DSCDiscordBot\node_modules\which\which.js:80:29)
+    at E:\DSCDiscordBot\node_modules\which\which.js:89:16
+[DSC FPTU Bot] 2021-06-02T16:55:12.217Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:55:15.502Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:55:16.834Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:55:18.641Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:55:18.642Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:55:23.172Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:55:24.156Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:55:24.758Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:55:26.199Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:55:27.019Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:55:28.389Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:55:28.716Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:55:29.802Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:55:29.846Z error : Error: Cannot find ffmpeg
+    at E:\DSCDiscordBot\node_modules\fluent-ffmpeg\lib\processor.js:136:22
+    at E:\DSCDiscordBot\node_modules\fluent-ffmpeg\lib\capabilities.js:123:9
+    at wrapper (E:\DSCDiscordBot\node_modules\async\dist\async.js:268:20)
+    at next (E:\DSCDiscordBot\node_modules\async\dist\async.js:4582:24)
+    at E:\DSCDiscordBot\node_modules\async\dist\async.js:321:20
+    at E:\DSCDiscordBot\node_modules\fluent-ffmpeg\lib\capabilities.js:116:11
+    at E:\DSCDiscordBot\node_modules\fluent-ffmpeg\lib\utils.js:223:16
+    at F (E:\DSCDiscordBot\node_modules\which\which.js:68:16)
+    at E (E:\DSCDiscordBot\node_modules\which\which.js:80:29)
+    at E:\DSCDiscordBot\node_modules\which\which.js:89:16
+[DSC FPTU Bot] 2021-06-02T16:57:14.684Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T16:57:19.446Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T16:57:20.778Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T16:57:22.754Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T16:57:22.755Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T16:57:24.374Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:57:28.717Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:57:29.135Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:57:29.614Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:57:29.674Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T16:57:33.261Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T16:57:34.209Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T16:57:34.395Z error : Error: ffmpeg exited with code 1: E:\DSCDiscordBot\commands\record\voiceResolver/../../../recordings/full_16: Invalid data found when processing input
+
+    at ChildProcess.<anonymous> (E:\DSCDiscordBot\node_modules\fluent-ffmpeg\lib\processor.js:182:22)
+    at ChildProcess.emit (events.js:376:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:277:12)
+[DSC FPTU Bot] 2021-06-02T17:04:57.166Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:05:03.930Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:05:09.745Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:05:11.072Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:05:13.849Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:05:13.850Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:05:15.415Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:15.483Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:15.878Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:16.196Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:16.618Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:16.918Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:17.744Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:17.746Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:17.749Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:20.141Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:05:21.169Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:24.310Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:25.038Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:25.929Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:27.401Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:27.512Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:28.566Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:28.938Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:30.091Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:30.772Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:31.178Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:31.471Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:37.314Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:38.100Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:39.008Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:39.275Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:40.223Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:40.429Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:42.237Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:42.453Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:45.243Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:45.478Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:45.870Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:05:46.206Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:08:22.437Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:08:29.456Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:08:30.182Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:08:34.644Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:08:34.645Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:08:35.673Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:08:40.386Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:08:40.574Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:08:43.032Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:08:43.034Z error : Error: spawn lame ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+    at onErrorNT (internal/child_process.js:467:16)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+[DSC FPTU Bot] 2021-06-02T17:09:53.043Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:09:56.860Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:09:58.165Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:10:01.313Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:10:01.314Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:10:02.293Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:10:07.130Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:10:07.173Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:10:09.404Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:10:09.406Z error : Error: spawn lame ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+    at onErrorNT (internal/child_process.js:467:16)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+[DSC FPTU Bot] 2021-06-02T17:11:16.396Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:11:22.205Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:11:23.538Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:11:25.692Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:11:25.693Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:11:25.844Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:11:26.714Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:11:27.493Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:11:28.080Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:11:28.886Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:11:29.938Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:11:30.960Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:11:32.208Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:11:32.252Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:11:32.578Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:11:32.579Z error : Error: spawn lame ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+    at onErrorNT (internal/child_process.js:467:16)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+[DSC FPTU Bot] 2021-06-02T17:13:19.836Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-02T17:13:28.103Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-02T17:13:29.410Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-02T17:13:33.812Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-02T17:13:33.813Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-02T17:13:34.147Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:13:35.281Z info : Yurra started Speek
+[DSC FPTU Bot] 2021-06-02T17:13:35.553Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-02T17:13:39.201Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-02T17:13:39.202Z error : Error: spawn lame ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+    at onErrorNT (internal/child_process.js:467:16)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
