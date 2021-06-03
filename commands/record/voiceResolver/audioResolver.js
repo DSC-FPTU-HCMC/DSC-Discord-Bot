@@ -41,8 +41,8 @@ async function runSaveFunction(){
 module.exports.saveRecord = async function(){
     let inputStream, currentfile, outputStream = fs.createWriteStream(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`);
     let chunks = fs.readdirSync(__dirname + '/../../../tmp/records/');
-    await appendFiles(outputStream,currentfile,inputStream,chunks)
-    await runSaveFunction();
+    appendFiles(outputStream,currentfile,inputStream,chunks)
+    runSaveFunction();
     
     
 }
