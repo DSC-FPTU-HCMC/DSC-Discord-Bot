@@ -3,7 +3,7 @@ const logger = require('../../../logger');
 const fs = require('fs');
 
 function convertToMp3(inputPath,outputPath){
-    const encoder = new Lame({
+    let encoder = new Lame({
         output: outputPath,
         bitrate : 192,
         raw : true,
@@ -29,20 +29,18 @@ function appendFiles(outputStream,currentfile,inputStream,chunks) {
 
     inputStream.pipe(outputStream, { end: false });
 
-    inputStream.on('end', function() {
+    inputStream.on('end', async function() {
         logger.info(currentfile + ' appended');
         fs.unlinkSync(currentfile);
-        appendFiles(outputStream,currentfile,inputStream,chunks);
+        await appendFiles(outputStream,currentfile,inputStream,chunks);
     });
 }
-function runSaveFunction(){
-    convertToMp3(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`,__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.mp3`);
-}
+
 module.exports.saveRecord = async function(){
     let inputStream, currentfile, outputStream = fs.createWriteStream(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`);
     let chunks = fs.readdirSync(__dirname + '/../../../tmp/records/');
     appendFiles(outputStream,currentfile,inputStream,chunks)
-    runSaveFunction();
+    convertToMp3(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`,__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.mp3`);
     
     
 }

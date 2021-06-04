@@ -253,3 +253,9 @@
     at readableAddChunk (internal/streams/readable.js:284:9)
     at Socket.Readable.push (internal/streams/readable.js:223:10)
     at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[DSC FPTU Bot] 2021-06-03T14:24:51.642Z error : Error [VOICE_CONNECTION_TIMEOUT]: Connection not established within 15 seconds.
+    at VoiceConnection.authenticateFailed (E:\DSCDiscordBot\node_modules\discord.js\src\client\voice\VoiceConnection.js:296:27)
+    at E:\DSCDiscordBot\node_modules\discord.js\src\client\voice\VoiceConnection.js:324:61
+    at Timeout.<anonymous> (E:\DSCDiscordBot\node_modules\discord.js\src\client\BaseClient.js:83:7)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)

@@ -1489,3 +1489,48 @@
 [DSC FPTU Bot] 2021-06-03T13:06:23.058Z info : E:\DSCDiscordBot\commands\record\voiceResolver/../../../tmp/records/1622725577182.pcm appended
 [DSC FPTU Bot] 2021-06-03T13:06:23.059Z info : Finished.
 [DSC FPTU Bot] 2021-06-03T13:06:23.330Z info : Encoding Finished!
+[DSC FPTU Bot] 2021-06-03T14:24:30.626Z info : Bot has been activated
+[DSC FPTU Bot] 2021-06-03T14:24:36.639Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-03T14:24:39.705Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-03T14:24:39.707Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-03T14:24:51.642Z error : Error [VOICE_CONNECTION_TIMEOUT]: Connection not established within 15 seconds.
+    at VoiceConnection.authenticateFailed (E:\DSCDiscordBot\node_modules\discord.js\src\client\voice\VoiceConnection.js:296:27)
+    at E:\DSCDiscordBot\node_modules\discord.js\src\client\voice\VoiceConnection.js:324:61
+    at Timeout.<anonymous> (E:\DSCDiscordBot\node_modules\discord.js\src\client\BaseClient.js:83:7)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+[DSC FPTU Bot] 2021-06-03T14:25:04.029Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-03T14:25:25.411Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-03T14:25:40.332Z info : baolongv3 Used record enter
+[DSC FPTU Bot] 2021-06-03T14:25:41.093Z info : Joining Voice Channel of Lounge
+[DSC FPTU Bot] 2021-06-03T14:25:43.305Z info : Starting Recording on <#848186077494902785>
+[DSC FPTU Bot] 2021-06-03T14:25:43.306Z info : baolongv3 Used record start
+[DSC FPTU Bot] 2021-06-03T14:25:45.538Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-03T14:25:50.327Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-03T14:25:50.475Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-03T14:25:51.259Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-03T14:26:09.357Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-03T14:26:10.650Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-03T14:26:19.559Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-03T14:26:20.286Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-03T14:26:29.618Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-03T14:26:30.300Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-03T14:26:35.622Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-03T14:26:40.741Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-03T14:26:40.838Z info : baolongv3 started Speek
+[DSC FPTU Bot] 2021-06-03T14:26:41.076Z info : baolongv3 Used record stop
+[DSC FPTU Bot] 2021-06-03T14:26:41.144Z info : E:\DSCDiscordBot\commands\record\voiceResolver/../../../tmp/records/1622730345606.pcm appended
+[DSC FPTU Bot] 2021-06-03T14:26:41.145Z info : E:\DSCDiscordBot\commands\record\voiceResolver/../../../tmp/records/1622730350327.pcm appended
+[DSC FPTU Bot] 2021-06-03T14:26:41.146Z info : E:\DSCDiscordBot\commands\record\voiceResolver/../../../tmp/records/1622730350476.pcm appended
+[DSC FPTU Bot] 2021-06-03T14:26:41.147Z info : E:\DSCDiscordBot\commands\record\voiceResolver/../../../tmp/records/1622730351259.pcm appended
+[DSC FPTU Bot] 2021-06-03T14:26:41.149Z info : E:\DSCDiscordBot\commands\record\voiceResolver/../../../tmp/records/1622730369357.pcm appended
+[DSC FPTU Bot] 2021-06-03T14:26:41.150Z info : E:\DSCDiscordBot\commands\record\voiceResolver/../../../tmp/records/1622730370650.pcm appended
+[DSC FPTU Bot] 2021-06-03T14:26:41.151Z info : E:\DSCDiscordBot\commands\record\voiceResolver/../../../tmp/records/1622730379559.pcm appended
+[DSC FPTU Bot] 2021-06-03T14:26:41.151Z info : E:\DSCDiscordBot\commands\record\voiceResolver/../../../tmp/records/1622730380286.pcm appended
+[DSC FPTU Bot] 2021-06-03T14:26:41.153Z info : E:\DSCDiscordBot\commands\record\voiceResolver/../../../tmp/records/1622730389618.pcm appended
+[DSC FPTU Bot] 2021-06-03T14:26:41.154Z info : E:\DSCDiscordBot\commands\record\voiceResolver/../../../tmp/records/1622730390301.pcm appended
+[DSC FPTU Bot] 2021-06-03T14:26:41.156Z info : E:\DSCDiscordBot\commands\record\voiceResolver/../../../tmp/records/1622730395623.pcm appended
+[DSC FPTU Bot] 2021-06-03T14:26:41.157Z info : E:\DSCDiscordBot\commands\record\voiceResolver/../../../tmp/records/1622730400741.pcm appended
+[DSC FPTU Bot] 2021-06-03T14:26:41.157Z info : E:\DSCDiscordBot\commands\record\voiceResolver/../../../tmp/records/1622730400838.pcm appended
+[DSC FPTU Bot] 2021-06-03T14:26:41.158Z info : Finished.
+[DSC FPTU Bot] 2021-06-03T14:26:41.386Z info : Encoding Finished!
