@@ -17,10 +17,12 @@ function convertToMp3(inputPath,outputPath){
         logger.error(error.stack);
     })
 }
-async function appendFiles(outputStream,currentfile,inputStream,chunks) {
+async function generateAudio(outputStream,currentfile,inputStream,chunks) {
     
     if (!chunks.length) {
         outputStream.end(() => logger.info('Finished.'));
+        convertToMp3(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`,__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.mp3`);
+        fs.unlinkSync(outputStream)
         return;
     }
 
@@ -29,18 +31,19 @@ async function appendFiles(outputStream,currentfile,inputStream,chunks) {
 
     inputStream.pipe(outputStream, { end: false });
 
-    inputStream.on('end', async function() {
+    await inputStream.on('end', async function() {
         logger.info(currentfile + ' appended');
         fs.unlinkSync(currentfile);
-        await appendFiles(outputStream,currentfile,inputStream,chunks);
+        generateAudio(outputStream,currentfile,inputStream,chunks);
+        
     });
 }
 
 module.exports.saveRecord = async function(){
     let inputStream, currentfile, outputStream = fs.createWriteStream(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`);
     let chunks = fs.readdirSync(__dirname + '/../../../tmp/records/');
-    await appendFiles(outputStream,currentfile,inputStream,chunks)
-    convertToMp3(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`,__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.mp3`);
+    await createAudio(outputStream,currentfile,inputStream,chunks)
+    
     
     
 }
