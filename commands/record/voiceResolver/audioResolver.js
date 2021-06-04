@@ -17,7 +17,7 @@ function convertToMp3(inputPath,outputPath){
         logger.error(error.stack);
     })
 }
-function appendFiles(outputStream,currentfile,inputStream,chunks) {
+async function appendFiles(outputStream,currentfile,inputStream,chunks) {
     
     if (!chunks.length) {
         outputStream.end(() => logger.info('Finished.'));
@@ -39,7 +39,7 @@ function appendFiles(outputStream,currentfile,inputStream,chunks) {
 module.exports.saveRecord = async function(){
     let inputStream, currentfile, outputStream = fs.createWriteStream(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`);
     let chunks = fs.readdirSync(__dirname + '/../../../tmp/records/');
-    appendFiles(outputStream,currentfile,inputStream,chunks)
+    await appendFiles(outputStream,currentfile,inputStream,chunks)
     convertToMp3(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`,__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.mp3`);
     
     
