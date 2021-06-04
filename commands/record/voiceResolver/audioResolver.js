@@ -42,7 +42,7 @@ async function generateAudio(outputStream,currentfile,inputStream,chunks) {
 module.exports.saveRecord = async function(){
     let inputStream, currentfile, outputStream = fs.createWriteStream(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`);
     let chunks = fs.readdirSync(__dirname + '/../../../tmp/records/');
-    await createAudio(outputStream,currentfile,inputStream,chunks)
+    await generateAudio(outputStream,currentfile,inputStream,chunks)
     
     
     
