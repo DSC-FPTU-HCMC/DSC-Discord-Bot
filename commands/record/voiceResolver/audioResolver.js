@@ -22,7 +22,7 @@ async function generateAudio(outputStream,currentfile,inputStream,chunks) {
     if (!chunks.length) {
         outputStream.end(() => logger.info('Finished.'));
         convertToMp3(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`,__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.mp3`);
-        fs.unlinkSync(outputStream)
+        fs.unlinkSync(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`)
         return;
     }
 
@@ -35,7 +35,6 @@ async function generateAudio(outputStream,currentfile,inputStream,chunks) {
         logger.info(currentfile + ' appended');
         fs.unlinkSync(currentfile);
         generateAudio(outputStream,currentfile,inputStream,chunks);
-        
     });
 }
 
@@ -43,6 +42,7 @@ module.exports.saveRecord = async function(){
     let inputStream, currentfile, outputStream = fs.createWriteStream(__dirname + `/../../../recordings/full_${new Date().getUTCHours()}.pcm`);
     let chunks = fs.readdirSync(__dirname + '/../../../tmp/records/');
     await generateAudio(outputStream,currentfile,inputStream,chunks)
+
     
     
     
