@@ -13,23 +13,23 @@ module.exports = {
             return;
         }
 
-        if(args[0] == 'enter'){
-            await voiceResolver.enter(msg);
-            return;
-        }
+        // if(args[0] == 'enter'){
+        //     await voiceResolver.enter(msg);
+        //     return;
+        // }
 
-        if(args[0] == 'leave'){
-            await voiceResolver.leave(msg);
-            return;
-        }
+        // if(args[0] == 'leave'){
+        //     await voiceResolver.leave(msg);
+        //     return;
+        // }
 
-        if(args[0] == 'start'){
-            await voiceResolver.start(msg);
-        }
+        // if(args[0] == 'start'){
+        //     await voiceResolver.start(msg);
+        // }
 
-        if(args[0] == 'stop'){
-            await voiceResolver.stop(msg);
-        }
+        // if(args[0] == 'stop'){
+        //     await voiceResolver.stop(msg);
+        // }
 
     }
 }

@@ -32,7 +32,7 @@ const logger = winston.createLogger({
             )
         }),
         new winston.transports.DailyRotateFile({
-            filename: path.concat('info-%DATA%.log'),
+            filename: path.concat('info-%DATE%.log'),
             level: 'info',
             format: winston.format.combine(
                 winston.format.timestamp({

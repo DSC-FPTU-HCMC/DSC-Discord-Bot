@@ -8,7 +8,8 @@ module.exports = {
                 .setDescription(':red_circle: Recording Utils')
                 .addField('enter','Order bot to join server')
                 .addField('start', 'Order bot to start recording')
-                .addField('stop', 'Order bot to stop recording');
+                .addField('stop', 'Order bot to stop recording')
+                .addField('TODO')
         
     }
 }
