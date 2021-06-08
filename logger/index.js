@@ -2,11 +2,7 @@ const winston = require('winston');
 require('winston-daily-rotate-file')
 
 const path = './logs/';
-const timeZone = () => {
-    return new Date().toLocaleTimeString('en-US',{
-        timeZone : 	'Asia/Ho_Chi_Minh'
-    });
-}
+
 
 const logger = winston.createLogger({
     transports:[
@@ -14,7 +10,7 @@ const logger = winston.createLogger({
             format: winston.format.combine(
                 winston.format.colorize(),
                 winston.format.timestamp({
-                    format : timeZone()
+                    format : 'YYYY-MM-DD HH:mm:ss'
                 }),
                 winston.format.simple(),
                 winston.format.printf(info => `[DSC FPTU Bot] ${info.timestamp} ${info.level} : ${info.message}`)
@@ -25,7 +21,7 @@ const logger = winston.createLogger({
             level: 'error',
             format: winston.format.combine(
                 winston.format.timestamp({
-                    format : timeZone()
+                    format : 'YYYY-MM-DD'
                 }),
                 winston.format.simple(),
                 winston.format.printf(info => `[DSC FPTU Bot] ${info.timestamp} ${info.level} : ${info.message}`)
@@ -36,7 +32,7 @@ const logger = winston.createLogger({
             level: 'info',
             format: winston.format.combine(
                 winston.format.timestamp({
-                    format : timeZone()
+                    format : 'YYYY-MM-DD'
                 }),
                 winston.format.simple(),
                 winston.format.printf(error => `[DSC FPTU Bot] ${error.timestamp} ${error.level} : ${error.message}`)
