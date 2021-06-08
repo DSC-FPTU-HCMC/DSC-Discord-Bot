@@ -1,5 +1,5 @@
+node_modules/
 .env
 logs/
 recordings/
 tmp/
-node_modules/
