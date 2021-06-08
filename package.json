@@ -9,9 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mapbox/node-pre-gyp": "^1.0.5",
     "@discordjs/opus": "github:discordjs/opus",
     "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "@mapbox/node-pre-gyp": "^1.0.5",
+    "bcrypt": "^5.0.1",
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
