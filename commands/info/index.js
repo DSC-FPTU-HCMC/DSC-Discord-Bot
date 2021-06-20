@@ -1,4 +1,3 @@
-const logger = require('../../logger');
 const view = require('./view')
 module.exports = {
     name: 'info',
