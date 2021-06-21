@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 module.exports = {
     printInfo: function () {
-        return Discord.MessageEmbed()
+        return new Discord.MessageEmbed()
             .setTitle('FPTU DSC Bot')
             .setAuthor('DSC FPT University', 'https://ca.slack-edge.com/T01SZJQ9K9P-U01U9AQ39QC-06d89ca32aeb-512')
             .setTitle('Record')
