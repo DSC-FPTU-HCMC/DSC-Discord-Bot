@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 module.exports = {
     infoEmbed: function () {
-        return Discord.MessageEmbed()
+        return new Discord.MessageEmbed()
             .setDescription(`Welcome!`)
             .addField(`Welcome ${user.username}!`, 'Hope you enjoy your stay!')
             .setThumbnail(user.displayAvatarURL())
